@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Frontend" />
+  <img src="https://i.ytimg.com/vi/o6muKsCdp2A/maxresdefault.jpg" alt="Frontend" />
 
   &#xa0;
 
