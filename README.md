@@ -46,7 +46,7 @@
 
 ## :dart: Sobre ##
 
-Sistema Web de agendamentos para barbearias
+Go Barber é uma app feito em ReactJS durante o Bootcamp da Rocketseat. Trata-se de um app que permite o agendamento de clientes com seus barbeiros/cabeleireiros. Essa aplicação web permite que os prestadores de serviço vejam suas agendas.
 
 ## :sparkles: Recursos ##
 
