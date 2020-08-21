@@ -2,9 +2,12 @@ import React from 'react';
 
 import GlobalStyle from './styles/global';
 
+// import provisorio
+import SignIn from './pages/SignIn';
+
 const App: React.FC = () => (
   <>
-    <h1>Hello Fabiano</h1>
+    <SignIn />
     <GlobalStyle />
   </>
 );
