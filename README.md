@@ -1,4 +1,4 @@
-<div align="center" id="top"> 
+<div align="center" id="top">
   <img src="https://i.ytimg.com/vi/o6muKsCdp2A/maxresdefault.jpg" alt="Frontend" />
 
   &#xa0;
@@ -26,14 +26,14 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
+<!-- <h4 align="center">
 	🚧  Gobarber frontend 🚀 Under construction...  🚧
-</h4> 
+</h4>
 
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Recursos</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Pré-requisitos</a> &#xa0; | &#xa0;
@@ -54,12 +54,41 @@ Go Barber é uma app feito em ReactJS durante o Bootcamp da Rocketseat. Trata-se
 :heavy_check_mark: Cancelar agendamento;\
 :heavy_check_mark: Criação de perfil;
 
-## :rocket: Technologias ##
+## :rocket: Technologias/Dependências (Até o momento) ##
 
-The following tools were used in this project:
+The following tools/dependencies were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [@testing-library/jest-dom - Versão ^4.2.4](https://github.com/testing-library/jest-dom)
+- [@testing-library/react - Versão ^9.3.2](https://testing-library.com/docs/react-testing-library/intro)
+- [@testing-library/user-event - Versão ^7.1.2](https://github.com/testing-library/user-event)
+- [@types/jest - Versão ^24.0.0](https://www.npmjs.com/package/@types/jest)
+- [@types/node - Versão ^12.0.0](https://www.npmjs.com/package/@types/node)
+- [@types/react - Versão ^16.9.0](https://www.npmjs.com/package/@types/react)
+- [@types/react-dom - Versão ^16.9.0](https://www.npmjs.com/package/@types/react-dom)
+- [@unform/core - Versão ^2.1.3](https://github.com/Rocketseat/unform)
+- [@unform/web - Versão ^2.1.3](https://github.com/Rocketseat/unform)
+- [polished - Versão ^3.6.5](https://polished.js.org/)
+- [react-icons - Versão ^3.11.0](https://react-icons.github.io/react-icons/)
+- [react-scripts - Versão 3.4.3](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts)
+- [styled-components - Versão ^5.1.1](https://styled-components.com/)
+
+Dev dependencies
+
+- [@types/styled-components Versão ^5.1.2]()
+- [@typescript-eslint/eslint-plugin Versão ^3.9.1]()
+- [@typescript-eslint/parser Versão ^3.9.1]()
+- [eslint Versão 6.8.0]()
+- [eslint-config-airbnb Versão ^18.2.0]()
+- [eslint-config-prettier Versão ^6.11.0]()
+- [eslint-import-resolver-typescript Versão ^2.2.1]()
+- [eslint-plugin-import Versão ^2.20.1]()
+- [eslint-plugin-jsx-a11y Versão ^6.2.3]()
+- [eslint-plugin-prettier Versão ^3.1.4]()
+- [eslint-plugin-react Versão ^7.19.0]()
+- [eslint-plugin-react-hooks Versão ^2.5.0]()
+- [prettier Versão ^2.0.5]()
 
 ## :white_check_mark: Pré-requisitos ##
 
