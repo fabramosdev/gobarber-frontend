@@ -18,10 +18,10 @@ import { Container, Content, Background } from './styles';
 const SignIn: React.FC = () => {
   const formRef = useRef<FormHandles>(null);
 
-  formRef.current?.setErrors({});
-
   const handleSubmit = useCallback(async (data: object) => {
     try {
+      formRef.current?.setErrors({});
+
       const schema = Yup.object().shape({
         email: Yup.string()
           .required('E-mail obrigatório')
@@ -36,7 +36,10 @@ const SignIn: React.FC = () => {
       const errors = getValidationErrors(err);
 
       formRef.current?.setErrors(errors);
+
+      // console.log(errors);
     }
+    // console.log(data);
   }, []);
 
   return (
