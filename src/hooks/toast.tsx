@@ -31,7 +31,6 @@ const ToastProvider: React.FC = ({ children }) => {
         title,
         description,
       };
-      console.log(id);
       setMessages(oldMessages => [...oldMessages, toast]);
     },
     [],
