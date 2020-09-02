@@ -105,7 +105,7 @@ Antes de tudo :checkered_flag:, tenha configurado em seu ambiente de desenvolvim
 $ git clone https://github.com/fabramosdev/gobarber-frontend
 
 # Acesse a pasta
-$ cd gobarner-frontend
+$ cd gobarber-frontend
 
 # Instale as dependências
 $ yarn
