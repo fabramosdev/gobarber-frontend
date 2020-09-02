@@ -8,7 +8,6 @@ import { Form } from '@unform/web';
 import * as Yup from 'yup';
 import { Link } from 'react-router-dom';
 
-import { renderIntoDocument } from 'react-dom/test-utils';
 import { useAuth } from '../../hooks/auth';
 import { useToast } from '../../hooks/toast';
 
